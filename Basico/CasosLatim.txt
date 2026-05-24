@@ -1,0 +1,46 @@
+Função Portugues                Caso Latim
+
+Sujeito                         Nominativo
+Vocativo                        Vocativo
+Objeto Direto                   Acusativo
+Complemento Nominal             Genitivo
+Adjunto Adnominal               Genitivo
+Objeto Indireto                 Dativo
+Adjunto Adverbial               Ablativo
+
+A(artigo definido) menina(substantivo, aristotelicamente possui essência, substância de humano, substancial) canta(verbo)
+Puella(substantivo) Cantat(verbo)
+
+Puell(radical) a(terminação nominativa)
+
+Obs: As terminações dos radicais indicam caso, numero e genero
+
+A(artigo definido) menina(substantivo) colhe(verbo) uma(artigo definido) rosa(substantivo)
+
+A Menina colhe uma rosa
+A Menina -> Sujeito
+Colhe -> verbo
+Uma rosa -> Predicado
+
+Obs: Aristotelicamente um predicado é aquilo que se diz sobre o sujeito, existem sujeitos que não podem ser predicados 
+ontologicamente, mas podem gramaticalmente.
+
+Como exemplo as cores.
+
+É possível escrever: O vermelho colheu uma rosa. 
+Porém ontologicamente o vermelho não predica nada, o vermelho existe apenas no outro (Organon - Categorias)
+
+Puella carpit rosam
+
+Puella (substantivo) carpit (verbo) rosam (substantivo)
+Puella -> Sujeito
+Carpit -> verbo
+Rosam -> Predicado (acusativo)
+
+A menina colhe uma rosa para a professora
+Puella carpit rosam magistrae (magistra -> professora) (magistrae -> para a professora)
+Exemplo 
+Bella magistra -> Bela professora
+Magna magistra -> Grande professora
+
+

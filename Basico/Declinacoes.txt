@@ -1,0 +1,145 @@
+Classes Mofológicas
+
+Invariáveis:
+
+Preposição
+(cum,ab,ad,in,síne)
+Advérbio
+(interim,ubi,quomodo)
+Conjunção
+(antequam,quoniam,ut)
+Interjeições
+(Ecce, Heu, O!)
+
+Variáveis
+
+substantivo \
+Adjetivos    -> A flexão dessas palavras são as declinações.
+Pronomes    /
+
+Verbos -> A flexão dos verbos são as conjugações.
+
+As palavras variáveis passam por 3 acidentes -> Gênero, Numero e Caso
+
+Gênero:
+Masculino, Feminino, Neutro
+
+Número:
+Singular, Plural
+
+Caso:
+
+Nominativo
+Vocativo
+Acusativo
+Genitivo
+Dativo
+Ablativo
+
+##########################################
+declinações
+##########################################
+
+Temas em 
+
+a                          Rosa -                     1 Declinação 
+
+O                          Domino -                   2 Declinação
+
+i e consoante              Avi e Consul -             3 Declinação
+
+u                          Manu -                     4 Declinação
+
+e                          Die -                      5 Declinação
+
+#############################################
+#Primeira Declinação Singular
+#############################################
+
+Mensa -> Mesa
+
+Nominativo Mensa
+Vocativo Mensa
+Acusativo Mensam
+Genitivo Mensae
+Dativo Mensae
+Ablativo Mensá
+
+#############################################
+#Primeira Declinação Plural
+#############################################
+
+Nominativo Mensae
+Vocativo Mensae 
+Acusativo Mensas
+Genitivo Mensarum
+Dativo Mensis
+Ablativo Mensis
+
+
+#############################################
+#Segunda Declinação Singular
+#############################################
+
+Titulum -> Titulo
+
+Nominativo -> Titulus
+Vocativo -> Titule
+Acusativo -> Titulum 
+Genitivo -> Títuli
+Dativo -> Tituló
+Ablativo -> Tituló
+
+Liber -> Livro
+
+Nominativo -> Liber
+Vocativo -> Liber 
+Acusativo -> Librum 
+Genitivo -> Libri
+Dativo -> Libro
+Ablativo -> Libro
+
+#############################################
+#Segunda Declinação Plural
+#############################################
+
+Nominativo -> Tituli
+Vocativo -> Tituli
+Acusativo -> Titulos 
+Genitivo -> Titulorum
+Dativo -> Titulis
+Ablativo -> Titulis
+
+Liber -> Livro
+
+Nominativo -> Libri
+Vocativo -> Libri
+Acusativo -> Libros 
+Genitivo -> Librorum
+Dativo -> Libris
+Ablativo -> Libris
+
+
+#############################################
+#Segunda Declinação Neutro Singular
+#############################################
+
+Capitulum -> Capitulo
+
+Nominativo -> Capitulum
+Vocativo -> Capitulum
+Acusativo -> Capitulum
+Genitivo -> Capituli
+Dativo -> Capituló
+Ablativo -> Capituló
+
+#############################################
+#Segunda Declinação Neutro Plural
+#############################################
+
+Nominativo -> Capitula
+Vocativo -> Capitula
+Acusativo -> Capitula
+Genitivo -> Capitulorum
+Dativo -> Capitulis
+Ablativo -> Capitulis
